@@ -1,3 +1,14 @@
+## How to use
+
+After cloning this project run these commands in the project folder
+
+- npm install
+- composer install
+- npm run dev
+- cp .env.example .env
+- php artisan key:generate
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
